@@ -64,7 +64,7 @@ Currently working on:
 
 <div align="center" style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aryanankolekar&theme=default&hide_border=true" width="400" height="200" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aryanankolekar&theme=default&hide_border=true" width="400" height="250" />
   
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryanankolekar&layout=compact&theme=default&hide_border=true" width="400" height="200" />
 

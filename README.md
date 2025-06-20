@@ -63,7 +63,6 @@ Currently working on:
 ## GitHub Activity
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=aryanankolekar&theme=default&hide_border=true)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aryanankolekar&show_icons=true&theme=default&hide_border=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aryanankolekar&layout=compact&theme=default&hide_border=true)
 
 ---

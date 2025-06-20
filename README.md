@@ -1,9 +1,4 @@
-# Aryan Ankolekar
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF7130?style=for-the-badge&logo=vercel&logoColor=white)](https://aryanankolekar.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aryan-ankolekar/)
-[![Email](https://img.shields.io/badge/Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aryan.ankolekar@gmail.com)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/aryanankolekar)
+# Hi! I'm Aryan 🪼
 
 ---
 
@@ -29,16 +24,6 @@ Currently working on:
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-### **Serving & Orchestration**
-
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white)
-![TorchServe](https://img.shields.io/badge/TorchServe-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Gradio](https://img.shields.io/badge/Gradio-3D3D3D?style=for-the-badge&logo=gradio&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Helm](https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white)
 
 ### **Monitoring & Optimization**
 

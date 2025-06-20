@@ -71,9 +71,11 @@ Currently working on:
 
 <div align="center" style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=aryanankolekar&show_icons=true&theme=default&hide_border=true" width="420" height="200" />
+  <!-- Contribution Graph -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aryanankolekar&theme=default&hide_border=true" width="420" height="200" />
 
-  <img src="https://github-contribution-graph.ezra.codes/api?username=aryanankolekar&theme=default" width="420" height="200" />
+  <!-- GitHub Trophy -->
+  <img src="https://github-profile-trophy.vercel.app/?username=aryanankolekar&theme=flat&margin-w=15&no-frame=true" width="420" height="200" />
 
 </div>
 

@@ -55,12 +55,12 @@ Currently working on:
 
 ---
 
-## 📈 GitHub Activity
+## GitHub Activity
 
 <div align="center">
 
-  <img height="200" src="https://github-readme-streak-stats.herokuapp.com/?user=aryanankolekar&theme=default&hide_border=true" />
-  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryanankolekar&layout=compact&theme=default&hide_border=true" />
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=aryanankolekar&theme=default&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryanankolekar&layout=compact&theme=default&hide_border=true" />
 
 </div>
 
@@ -70,7 +70,7 @@ Currently working on:
 
 ---
 
-## 🤝 Let's Collaborate
+## Let's Collaborate
 
 I'm always open to collaborating on AI-driven systems, real-world automation pipelines, or technically grounded research.  
 Whether it's OCR, LLMs, embedded AI, or anything at the intersection of ML and systems—let’s build something meaningful.

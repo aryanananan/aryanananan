@@ -70,7 +70,7 @@ Currently working on:
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aryanankolekar&theme=default&hide_border=true"/>
+[![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=devadigapratham&theme=react-dark&hide_border=true&area=true)](https://github.com/aryanankolekar)
 </div>
 
 ---

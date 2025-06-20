@@ -75,19 +75,27 @@ Currently working on:
 
 ---
 
-## Let's Collaborate
+## 🤝 Let's Collaborate
 
-<p align="center">
-  <a href="https://aryanankolekar.vercel.app/">
-    <img src="https://img.icons8.com/?size=100&id=ognMDWHTIaDL&format=png&color=000000" width="40" title="Portfolio">
+I'm always open to collaborating on AI-driven systems, real-world automation pipelines, or technically grounded research.  
+Whether it's OCR, LLMs, embedded AI, or anything at the intersection of ML and systems—let’s build something meaningful.
+
+<div align="center">
+
+  <a href="mailto:aryan.ankolekar@email.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
   </a>
-  <a href="https://www.linkedin.com/in/aryan-ankolekar/">
-    <img src="https://img.icons8.com/color/48/linkedin.png" width="40" title="LinkedIn">
+
+  <a href="https://www.linkedin.com/in/aryan-ankolekar" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://x.com/aryanankolekar">
-    <img src="https://img.icons8.com/color/48/twitterx.png" width="40" title="Twitter">
+
+  <a href="https://twitter.com/aryanankolekar" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
-  <a href="mailto:aryan.ankolekar@gmail.com">
-    <img src="https://img.icons8.com/color/48/gmail.png" width="40" title="Email">
+
+  <a href="https://aryanankolekar.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-121212?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio Badge"/>
   </a>
-</p>
+
+</div>

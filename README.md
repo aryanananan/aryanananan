@@ -1,7 +1,5 @@
 # Hi! I'm Aryan 🪼
 
-## Profile Overview
-
 Systems-focused AI engineer in training with a sharp eye for real-world deployment.  
 Strong foundation in deep learning, OCR, and algorithmic optimization.
 Currently working on:

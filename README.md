@@ -62,10 +62,11 @@ Currently working on:
 
 ## 📈 GitHub Activity
 
-<div align="center">
+<div align="center" style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
 
-  <img height="200" src="https://github-readme-streak-stats.herokuapp.com/?user=aryanankolekar&theme=default&hide_border=true" />
-  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryanankolekar&layout=compact&theme=default&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aryanankolekar&theme=default&hide_border=true" width="420" height="200" />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryanankolekar&layout=compact&theme=default&hide_border=true" width="420" height="200" />
 
 </div>
 

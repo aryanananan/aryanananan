@@ -62,11 +62,18 @@ Currently working on:
 
 ## 📈 GitHub Activity
 
+<div align="center">
+
+  <img height="200" src="https://github-readme-streak-stats.herokuapp.com/?user=aryanankolekar&theme=default&hide_border=true" />
+  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryanankolekar&layout=compact&theme=default&hide_border=true" />
+
+</div>
+
 <div align="center" style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aryanankolekar&theme=default&hide_border=true" width="400" height="250" />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryanankolekar&layout=compact&theme=default&hide_border=true" width="400" height="200" />
+  <img src="https://github-readme-stats.vercel.app/api?username=aryanankolekar&show_icons=true&theme=default&hide_border=true" width="420" height="200" />
+
+  <img src="https://github-contribution-graph.ezra.codes/api?username=aryanankolekar&theme=default" width="420" height="200" />
 
 </div>
 
